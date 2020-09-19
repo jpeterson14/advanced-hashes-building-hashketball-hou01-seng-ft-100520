@@ -31,7 +31,7 @@ def game_hash
         shoe: "17",
         points: "17",
         rebounds: "19",
-        assists: "19",
+        assists: "10",
         steals: "3",
         blocks: "1",
         slam_dunks: "15"
@@ -85,14 +85,15 @@ def game_hash
         slam_dunks: "10"
       },
       {
-        player_name: "",
-        number: "",
-        shoe: "",
-        points: "",
-        assists: "",
-        steals: "",
-        blocks: "",
-        slam_dunks: ""
+        player_name: "DeSagna Diop",
+        number: "2",
+        shoe: "14",
+        points: "24",
+        rebounds: "12",
+        assists: "12",
+        steals: "4",
+        blocks: "5",
+        slam_dunks: "5"
       },
       {
         player_name: "",
