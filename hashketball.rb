@@ -67,8 +67,56 @@ def game_hash
         steals: "",
         blocks: "",
         slam_dunks: ""
-      }
-      ]
+      },
+      player_name: "",
+        number: "",
+        shoe: "",
+        points: "",
+        assists: "",
+        steals: "",
+        blocks: "",
+        slam_dunks: ""
+      },
+      {
+        player_name: "",
+        number: "",
+        shoe: "",
+        points: "",
+        assists: "",
+        steals: "",
+        blocks: "",
+        slam_dunks: ""
+      },
+      {
+        player_name: "",
+        number: "",
+        shoe: "",
+        points: "",
+        assists: "",
+        steals: "",
+        blocks: "",
+        slam_dunks: ""
+      },
+      {
+        player_name: "",
+        number: "",
+        shoe: "",
+        points: "",
+        assists: "",
+        steals: "",
+        blocks: "",
+        slam_dunks: ""
+      },
+      {
+        player_name: "",
+        number: "",
+        shoe: "",
+        points: "",
+        assists: "",
+        steals: "",
+        blocks: "",
+        slam_dunks: ""
+      }]
     }
   }
 end
